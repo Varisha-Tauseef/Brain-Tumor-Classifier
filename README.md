@@ -1,9 +1,9 @@
-# Brain Tumour Classifier
+# Brain Tumor Classifier
 
-This project implements a **CNN-based Brain Tumour Classifier** that classifies brain MRI images into different tumour types.
+This project implements a **CNN-based Brain Tumor Classifier** that classifies brain MRI images into different tumor types.
 
 ## Overview
-- The notebook trains and evaluates three models (Custom CNN, MobileNetV2, and EfficientNet) for brain tumour classification. Users need a Kaggle account and must download their Kaggle API token. Once the token is uploaded to the notebook, the dataset is automatically downloaded from Kaggle, and all preprocessing, training, and evaluation steps for all models run without interruptions.
+- The notebook trains and evaluates three models (Custom CNN, MobileNetV2, and EfficientNet) for brain tumor classification. Users need a Kaggle account and must download their Kaggle API token. Once the token is uploaded to the notebook, the dataset is automatically downloaded from Kaggle, and all preprocessing, training, and evaluation steps for all models run without interruptions.
 
 ## How to Use
 1. Open the notebook in Jupyter or Google Colab.
